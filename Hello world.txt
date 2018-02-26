@@ -1,2 +1,4 @@
 print {"Hello world"};
 klon;
+print {"Hello zdarou"};
+print {"Hello lososi"};
